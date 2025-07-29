@@ -2,9 +2,9 @@
 
 Este repositório contém a implementação de uma **biblioteca desenvolvida na linguagem Java**, que permite ao desenvolvedor automatizar o processo de **controle de acesso interno em um sistema**.
 
-Este Framework foi construído utilizando o padrão de projeto criacional **Singleton** e o padrão de projeto estrutural **Facade**, além de empregar recursos como **Fluent Interface** e **Reflection**.
+📝 Este Framework foi construído utilizando o padrão de projeto criacional **Singleton** e o padrão de projeto estrutural **Facade**, além de empregar recursos como **Fluent Interface** e **Reflection**.
 
-A biblioteca oferece suporte para a criação das tabelas **user, role, permission, user_role e role_permission**, necessárias para aplicar o modelo RBAC em sistemas que utilizam bancos de dados relacionais. Também possibilita a inserção e manipulação de dados, bem como o bloqueio ou a liberação da execução de funções com base nos papéis atribuídos a um determinado usuário.
+🧑‍💻 A biblioteca oferece suporte para a criação das tabelas **user, role, permission, user_role e role_permission**, necessárias para aplicar o modelo RBAC em sistemas que utilizam bancos de dados relacionais. Também possibilita a inserção e manipulação de dados, bem como o bloqueio ou a liberação da execução de funções com base nos papéis atribuídos a um determinado usuário.
 
 ---
 
